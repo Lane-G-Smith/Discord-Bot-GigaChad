@@ -9,7 +9,7 @@
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple vanilla javascript Discord bot that takes on the persona of the infamous Chad internet meme.
+      <p align="center">A simple vanilla javascript Discord bot that takes on the persona of the infamous GigaChad internet meme.
       </p>
      </td>
    </tr>
