@@ -9,7 +9,7 @@
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple vanilla javascript Discord bot that takes on the persona of the infamous GigaChad internet meme. Uses the GPT3.5-Turbo-0613 LLM
+      <p align="center">A simple vanilla javascript Discord bot that takes on the persona of the infamous GigaChad internet meme. Uses the GPT3.5-Turbo-0613 LLM. Responds to chat whenever someone types "Chad"
       </p>
      </td>
    </tr>
