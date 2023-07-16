@@ -1,4 +1,4 @@
-<h1 align="center">Discord-Bot-Chad-GPT-3.5-Turbo</h1>
+<h1 align="center">Discord-Bot-Chad-GPT-3.5-Turbo-0613 NSFW</h1>
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
@@ -14,43 +14,10 @@
      </td>
    </tr>
  </table>
-<table align="start">
-  <tr>
-    <td align="center">
-    <p align="center">Give personality to a virtual friend in your gaming server
-      </p>
-        <img src="https://photos.smugmug.com/photos/i-m2ZrXcL/0/fd98caa8/M/i-m2ZrXcL-M.png"
-        height="56"
-        />
-      </td>
-   </tr>
- </table>
- <table align="start">
-  <tr>
-    <td align="center">
-    <p align="center">Get answers to random trivia from your pc or phone (Discord Mobile)
-      </p>
-        <img src="https://photos.smugmug.com/photos/i-FzDPz2B/0/d1a6a56b/L/i-FzDPz2B-L.png"
-        height="56"
-        />
-      </td>
-   </tr>
- </table>
- <table align="start">
-  <tr>
-    <td align="center">
-    <p align="center">Create your very own friendly peronal assistant
-      </p>
-        <img src="https://photos.smugmug.com/photos/i-bDkZn6x/0/47284382/S/i-bDkZn6x-S.png"
-        height="56"
-        />
-      </td>
-   </tr>
- </table>
 
-# GPT-3.5-Turbo bot installation and deloyment Instructions
+# Installation and deployment instructions
 
-# !!This bot does NOT respond to DMs, it must be in a server with you!!
+## !!This bot does NOT respond to DMs, it must be in a server with you!!
 
 ### Get the bot 'shell' from Discord. It's free, and it takes 5 minutes
 ```sh
