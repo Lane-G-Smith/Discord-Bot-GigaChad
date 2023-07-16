@@ -41,13 +41,13 @@ git init
 ```
 ### Navigate to new git folder in terminal and clone this repository
 ```sh
-git clone https://github.com/Lane-G-Smith/Vanilla-JS-Discord-Bot-GPT-3.5-Turbo.git
+git clone https://github.com/Lane-G-Smith/discord-bot-chad.git
 ```
-### Navigate to Vanilla-JS-DiscordBotGPT-3.5-Turbo folder and install dependencies
+### Navigate to discord-bot-chad folder and install dependencies
 ```sh
 npm install
 ```
-### Rename example_.env to .env
+### Rename example.env to .env
 ### Place your secret Discord bot token from the first step into the .env file
 ```sh
 TOKEN=your_unique_Discord_bot_token_here
@@ -55,10 +55,6 @@ TOKEN=your_unique_Discord_bot_token_here
 ### Place your secret OpenAI API key from the second step into the .env file
 ```sh
 OPENAI_API_KEY=your_unique_OpenAI_API_key_here
-```
-### Modify three lines in the code (40,41,42, self explanatory when you look at it) to personalize functionality
-```sh
-The characteristics of your AI and how to answer questions, one example question, one example answer
 ```
 ### To host the bot locally, open project in terminal and run node
 ```sh
