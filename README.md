@@ -1,4 +1,4 @@
-<h1 align="center">Discord-Bot-Chad-GPT-3.5-Turbo-0613 NSFW</h1>
+<h1 align="center">Discord-Bot-GigaChad NSFW</h1>
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
@@ -35,15 +35,15 @@ https://nodejs.org/en/
 ```sh
 https://git-scm.com/downloads
 ```
-### Create a new folder and navigate to it in terminal to set up git
+### Create a new folder and navigate to it in the terminal to set up git
 ```sh
 git init
 ```
 ### Navigate to new git folder in terminal and clone this repository
 ```sh
-git clone https://github.com/Lane-G-Smith/discord-bot-chad.git
+https://github.com/Lane-G-Smith/Discord-Bot-GigaChad.git
 ```
-### Navigate to discord-bot-chad folder and install dependencies
+### Navigate to Discord-Bot-GigaChad folder and install dependencies
 ```sh
 npm install
 ```
@@ -56,7 +56,7 @@ TOKEN=your_unique_Discord_bot_token_here
 ```sh
 OPENAI_API_KEY=your_unique_OpenAI_API_key_here
 ```
-### To host the bot locally, open project in terminal and run node
+### To host the bot locally, open the project in the terminal and run node
 ```sh
 node index.js
 ```
@@ -64,11 +64,11 @@ node index.js
 ```sh
 npm install pm2 -g
 ```
-### run your bot locally using pm2 https://pm2.keymetrics.io/
+### Run your bot locally using pm2 https://pm2.keymetrics.io/
 ```sh
 pm2 start index.js
 ```
-### congratulations, your bot should now be live & confirmation should be logged in the terminal. Use your personal link from the Discord developer portal to invite your bot to a Discord server
+### Congratulations, your bot should now be live & confirmation should be logged in the terminal. Use your personal link from the Discord developer portal to invite your bot to a Discord server
 ```sh
 https://discord.com/developers/applications
 ```
