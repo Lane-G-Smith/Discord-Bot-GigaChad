@@ -1,14 +1,14 @@
 {
   "name": "Discord-Bot-GigaChad",
   "version": "1.0.0",
-  "description": "Vanilla Javascript Discord bot for interacting with OpenAI gpt-3.5-Turbo",
-  "main": "index.js",
+  "description": "Discord Bot with the infamous GigaChad internet meme persona. Powered by ChatGPT3.5-Turbo-0613",
+  "main": "chad.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lane-G-Smith/VanillaDiscordBot-GPT-3.5-Turbo.git"
+    "url": "git+https://github.com/Lane-G-Smith/Discord-Bot-GigaChad.git"
   },
   "keywords": [
     "Discord",
@@ -22,9 +22,9 @@
   "author": "Lane G Smith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lane-G-Smith/VanillaDiscordBot-GPT-3.5-Turbo/issues"
+    "url": "https://github.com/Lane-G-Smith/Discord-Bot-GigaChad/issues"
   },
-  "homepage": "https://github.com/Lane-G-Smith/VanillaDiscordBot-GPT-3.5-Turbo#readme",
+  "homepage": "https://github.com/Lane-G-Smith/Discord-Bot-GigaChad#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
