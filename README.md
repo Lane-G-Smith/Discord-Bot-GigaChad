@@ -39,11 +39,11 @@ https://git-scm.com/downloads
 ```sh
 git init
 ```
-### Navigate to new git folder in terminal and clone this repository
+### Navigate to the new git folder in the terminal and clone this repository
 ```sh
 https://github.com/Lane-G-Smith/Discord-Bot-GigaChad.git
 ```
-### Navigate to Discord-Bot-GigaChad folder and install dependencies
+### Navigate to the Discord-Bot-GigaChad folder and install dependencies
 ```sh
 npm install
 ```
@@ -58,7 +58,7 @@ OPENAI_API_KEY=your_unique_OpenAI_API_key_here
 ```
 ### To host the bot locally, open the project in the terminal and run node
 ```sh
-node index.js
+node chad.js
 ```
 ### To host the bot locally and keep it running in the background indefinitely, install PM2
 ```sh
@@ -66,7 +66,7 @@ npm install pm2 -g
 ```
 ### Run your bot locally using pm2 https://pm2.keymetrics.io/
 ```sh
-pm2 start index.js
+pm2 start chad.js
 ```
 ### Congratulations, your bot should now be live & confirmation should be logged in the terminal. Use your personal link from the Discord developer portal to invite your bot to a Discord server
 ```sh
