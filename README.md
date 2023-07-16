@@ -1,4 +1,4 @@
-<h1 align="center">Vanilla-JS-Discord-Bot-GPT-3.5-Turbo</h1>
+<h1 align="center">Discord-Bot-Chad-GPT-3.5-Turbo</h1>
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
@@ -9,7 +9,7 @@
         <br /><strong>Discord.js</strong>
     </td>
     <td align="center" height="108">
-      <p align="center">A simple vanilla javascript Discord bot for interacting with the new language model GPT-3.5-Turbo by OpenAI. This bot can serve a variety of different functions by changing three simple lines of it's internal prompt. No coding skills required.
+      <p align="center">A simple vanilla javascript Discord bot that takes on the persona of the infamous Chad internet meme.
       </p>
      </td>
    </tr>
